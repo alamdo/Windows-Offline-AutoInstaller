@@ -1,0 +1,42 @@
+﻿[
+  {
+    "Name": "Google Chrome",
+    "DownloadUrl": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BAAEE80EE-164D-16E0-AC18-0CB04EB293B2%7D%26lang%3Dvi%26browser%3D4%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3D-arch_x64-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
+    "FileName": "chrome_installer.exe",
+    "SilentArgs": "/silent /install",
+    "InteractiveArgs": "",
+    "DetectKeyword": "Google Chrome",
+    "ExePathHint1": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "ExePathHint2": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+  },
+  {
+    "Name": "Microsoft Teams",
+    "DownloadUrl": "https://statics.teams.cdn.office.net/production-windows-x86/lkg/MSTeamsSetup.exe",
+    "FileName": "teams_installer.exe",
+    "SilentArgs": "-s",
+    "InteractiveArgs": "",
+    "DetectKeyword": "Teams",
+    "ExePathHint1": "",
+    "ExePathHint2": ""
+  },
+  {
+    "Name": "WPS Office",
+    "DownloadUrl": "https://wdl1.pcfg.cache.wpscdn.com/wpsdl/wpsoffice/download/12.2.0.23196/500.1001/WPSOffice_23196.exe",
+    "FileName": "wps_installer.exe",
+    "SilentArgs": "/S",
+    "InteractiveArgs": "",
+    "DetectKeyword": "WPS Office",
+    "ExePathHint1": "C:\\Program Files\\WPS Office",
+    "ExePathHint2": "C:\\Program Files (x86)\\WPS Office"
+  },
+  {
+    "Name": "Zalo",
+    "DownloadUrl": "https://res-download-pc-te-vnso-ne-1.zadn.vn/win/ZaloSetup-26.3.10.exe",
+    "FileName": "zalo_installer.exe",
+    "SilentArgs": "/S",
+    "InteractiveArgs": "",
+    "DetectKeyword": "Zalo",
+    "ExePathHint1": "",
+    "ExePathHint2": "C:\\Program Files\\Zalo"
+  }
+]
